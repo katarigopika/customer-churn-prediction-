@@ -1,0 +1,6 @@
+{
+  "name": "ChurnGuard",
+  "description": "AI-Powered Customer Churn Prediction and Customer Retention Analytics using Random Forest and IBM Telco Customer Churn data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
